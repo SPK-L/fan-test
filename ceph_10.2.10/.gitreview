@@ -1,0 +1,4 @@
+[gerrit]
+host=10.3.196.2
+port=29419
+project=cnc_ceph/ceph_10.2.10
